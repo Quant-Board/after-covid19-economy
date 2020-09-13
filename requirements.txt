@@ -1,4 +1,5 @@
-flask
-flask_cors
-pandas
-pandas-datareader
+Flask==1.1.2
+Flask-Cors==3.0.9
+pandas==1.1.2
+pandas-datareader==0.9.0
+pytest==6.0.2

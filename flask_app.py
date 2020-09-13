@@ -12,3 +12,6 @@ def hello_world():
 @app.route('/finance/<code>', methods=['GET'])
 def getFinance(code):
     return finance.fetchData(code)
+
+if __name__ == '__main__': #pythonanywhere not use custon port
+    app.run()
