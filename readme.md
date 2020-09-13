@@ -27,7 +27,7 @@ This items below may use aliases
 example : 
 
 ```
-GET GET https://covid19economy.pythonanywhere.com/finance/qqq
+GET https://covid19economy.pythonanywhere.com/finance/qqq
 ```
 
 ### Test
